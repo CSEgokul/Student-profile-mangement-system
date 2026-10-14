@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "oxford-student-profile-management",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/student.html"
+    }
+  ]
+}
